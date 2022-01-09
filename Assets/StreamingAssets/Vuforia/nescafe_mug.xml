@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="nescafe_mug" motionHint="static" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="nescafe_mugs_assembly" assemblyId="23d93fe0043c4db7ab0dd21730235dac">
+<Part name="nescafe_mug" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.0099142 0.0360225 0.217075" rotation="AD: 0.9986980789081888 0.14198750272814922 -0.41047434257823806 215.199" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0001" translation="-0.00981305 0.0361643 0.216908" rotation="AD: 0.9910493091851023 0.2176334326616581 -0.8144664199488583 203.009" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0002" translation="0.00411609 0.0370693 0.212248" rotation="AD: 0.9970498728286865 -0.17847808993471526 0.5103022194772896 214.181" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0003" translation="0.00715331 0.0393819 0.20592" rotation="AD: 0.9922474081944989 -0.1948904851489717 0.8576705672745754 199.301" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0004" translation="0.00808819 0.0361263 0.212759" rotation="AD: 0.8929538078081574 -0.49709579056577385 2.22281319939638 189.333" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0005" translation="-0.00135142 0.0382316 0.217702" rotation="AD: -0.8878951000784673 -0.5076656291563267 2.234125836422888 170.612" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
